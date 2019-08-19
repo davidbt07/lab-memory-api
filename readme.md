@@ -1,4 +1,4 @@
 Códigos laboratorio Memory API
 
-Por: Yeison Ballesteros
+Por: Yeison Ballesteros &
      Juan Pablo Taborda
